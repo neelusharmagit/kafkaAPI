@@ -3,3 +3,9 @@
 
 
 ./kafka-console-consumer.sh --topic example-topic --from-beginning --bootstrap-server localhost:9092
+
+
+
+
+
+https://theboreddev.com/combining-multiple-api-calls-with-completablefuture/
